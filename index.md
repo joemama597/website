@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# 209bits.tech
-
 ## Website and Technical Services Serving The Stockton Area
 
 I’m an aspiring DevOps engineer and IT specialist, passionate about leveraging technology to drive efficiency and innovation. Born and raised in Stockton, California, I bring a blend of technical expertise and local insight to every project.
